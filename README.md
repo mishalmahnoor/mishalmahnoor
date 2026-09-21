@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+I'm Meshal (MISH-al), Computer Science Student and Aspiring Software Engineer based in Pakistan.
+Most my projects are on frontend - using JavaScript, TypeScript, Next.js and Tailwind with my latest project being a full Fleged E-Commerce site for a local Business. I also have some backend experience with express.js. 
 
-<!--
-**mishalmahnoor/mishalmahnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Other than this my main backend languages are C++ and python, both of which I am currently working towards mastering deeply. 
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------
+**More About Me**
+- 🦐 I enjoy cooking and coming up with original recipes. I enjoy the fulfilling reactions of people who try my cooking. I'd like to classify myself as a home cook.
+- 🙊 I am multilingual: Urdu, English, Punjabi, and a bit of Arabic.
+- 🇸🇦  I spent my childhood in Saudi Arabia and Pakistan been my home for the last 9 years.
+- 📫 How to reach me: Best via Email, i'd love to collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
