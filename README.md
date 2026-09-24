@@ -14,6 +14,4 @@ Other than this my main backend languages are C++ and python, both of which I am
 
 --------------------------------------------------------------------
 <p align="center">📍based in Pakistan. <br/> 💻 currently open to Work
-  <br/>
- ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=rgb(255%2C%20255%2C%20255)&logoSize=auto&color=rgb(10%2C%20102%2C%20194)&cacheSeconds=3600&link=www.linkedin.com%2Fin%2Fmeshal-mahnoor2)
 </p>
