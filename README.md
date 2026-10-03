@@ -3,7 +3,7 @@
 Computer Science Student and Aspiring Software Engineer <br/>
 Most my projects are on frontend - using JavaScript, TypeScript, Next.js and Tailwind with my latest project being a full Fleged E-Commerce site for a local Business. I also have some backend experience with express.js. 
 
-Other than this my main backend languages are C++ and python, both of which I am currently working towards mastering deeply. 
+Other than this my main backend languages are C++ and python, both of which I am currently working towards mastering.
 
 -------------------------------------------------------------------
 **More About Me**
